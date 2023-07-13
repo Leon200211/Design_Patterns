@@ -10,19 +10,34 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="design-patterns" id="672c3cc9-eb23-439a-8508-d76c1a8fc146" name="design-patterns" />
+    </servers>
+  </component>
   <component name="ProjectId" id="2IEQ70zk38oxhDPqzlDaY5MI5bc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../fitlent_CMS/public_html" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/my_data/sites/domains/Design_Patterns/public_html",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\Design_Patterns\public_html\active_record\database" />
+      <recent name="C:\OpenServer\domains\Design_Patterns\public_html\active_record\models\user" />
+      <recent name="C:\OpenServer\domains\Design_Patterns\public_html\active_record\controllers" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\OpenServer\domains\Design_Patterns\public_html\active_record\Models" />
     </key>
@@ -37,7 +52,12 @@
       <updated>1669744091565</updated>
       <workItem from="1669744092761" duration="2590000" />
       <workItem from="1669815282276" duration="132000" />
-      <workItem from="1673788726482" duration="2093000" />
+      <workItem from="1673788726482" duration="4103000" />
+      <workItem from="1673797676628" duration="1889000" />
+      <workItem from="1688927286669" duration="1407000" />
+      <workItem from="1689066064771" duration="4000" />
+      <workItem from="1689079390547" duration="34000" />
+      <workItem from="1689260743024" duration="1466000" />
     </task>
     <servers />
   </component>
