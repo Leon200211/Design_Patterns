@@ -28,12 +28,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/my_data/sites/domains/Design_Patterns/public_html/delegation",
+    "last_opened_file_path": "D:/my_data/sites/domains/Design_Patterns/public_html/event_channel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\event_channel" />
+      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\delegation" />
       <recent name="C:\OpenServer\domains\Design_Patterns\public_html\active_record\database" />
       <recent name="C:\OpenServer\domains\Design_Patterns\public_html\active_record\models\user" />
       <recent name="C:\OpenServer\domains\Design_Patterns\public_html\active_record\controllers" />
@@ -58,7 +60,7 @@
       <workItem from="1689066064771" duration="4000" />
       <workItem from="1689079390547" duration="34000" />
       <workItem from="1689260743024" duration="1767000" />
-      <workItem from="1689317792324" duration="631000" />
+      <workItem from="1689317792324" duration="4231000" />
     </task>
     <servers />
   </component>
