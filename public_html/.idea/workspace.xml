@@ -28,17 +28,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/my_data/sites/domains/Design_Patterns/public_html/factory_method",
+    "last_opened_file_path": "D:/my_data/sites/domains/Design_Patterns/public_html/static_factory",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\static_factory" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\factory_method" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\abstract_factory" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\interface" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\event_channel" />
-      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\delegation" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\OpenServer\domains\Design_Patterns\public_html\active_record\Models" />
@@ -62,7 +62,7 @@
       <workItem from="1689260743024" duration="1767000" />
       <workItem from="1689317792324" duration="6842000" />
       <workItem from="1689406233873" duration="3761000" />
-      <workItem from="1689433492310" duration="2743000" />
+      <workItem from="1689433492310" duration="4724000" />
     </task>
     <servers />
   </component>
