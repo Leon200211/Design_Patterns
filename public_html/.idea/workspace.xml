@@ -23,23 +23,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/my_data/sites/domains/Design_Patterns/public_html/object_pool&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/my_data/sites/domains/Design_Patterns/public_html/adapter",
+    "settings.editor.selected.configurable": "editor.preferences.tabs",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\adapter" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\object_pool" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\prototype\type_2" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\prototype" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\lazy_initialization" />
-      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\builder" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\OpenServer\domains\Design_Patterns\public_html\active_record\Models" />
@@ -69,7 +69,7 @@
       <workItem from="1689573581421" duration="88000" />
       <workItem from="1689610456676" duration="2189000" />
       <workItem from="1689705477955" duration="1987000" />
-      <workItem from="1689744037789" duration="1797000" />
+      <workItem from="1689744037789" duration="5025000" />
     </task>
     <servers />
   </component>
