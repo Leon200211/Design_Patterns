@@ -28,18 +28,18 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/my_data/sites/domains/Design_Patterns/public_html/adapter",
+    "last_opened_file_path": "D:/my_data/sites/domains/Design_Patterns/public_html",
     "settings.editor.selected.configurable": "editor.preferences.tabs",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Structural\facade" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\adapter" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\object_pool" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\prototype\type_2" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\prototype" />
-      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\lazy_initialization" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\OpenServer\domains\Design_Patterns\public_html\active_record\Models" />
@@ -69,7 +69,8 @@
       <workItem from="1689573581421" duration="88000" />
       <workItem from="1689610456676" duration="2189000" />
       <workItem from="1689705477955" duration="1987000" />
-      <workItem from="1689744037789" duration="5974000" />
+      <workItem from="1689744037789" duration="7017000" />
+      <workItem from="1689877193687" duration="1846000" />
     </task>
     <servers />
   </component>
