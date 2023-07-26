@@ -1,0 +1,5 @@
+<objects>
+    <class name="ApptEncoder">
+        <instance inst="BloggsApptEncoder"></instance>
+    </class>
+</objects>

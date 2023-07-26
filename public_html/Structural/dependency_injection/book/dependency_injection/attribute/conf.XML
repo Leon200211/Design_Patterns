@@ -1,0 +1,14 @@
+<objects>
+    <class name="ApptEncoder">
+        <instance inst="BloggsApptEncoder"></instance>
+    </class>
+    <class name="Sea">
+        <instance inst="EarthSea"></instance>
+    </class>
+    <class name="Plains">
+        <instance inst="MarsPlains"></instance>
+    </class>
+    <class name="Forest">
+        <instance inst="EarthForest"></instance>
+    </class>
+</objects>
