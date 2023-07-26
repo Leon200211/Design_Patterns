@@ -2,5 +2,5 @@
 
 interface OrderUpdateInterface
 {
-    public function run(Order $order, array $orderData) : Order;
+    public function run(Order $order, array $orderData): Order;
 }

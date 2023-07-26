@@ -14,7 +14,7 @@ class DecoratorApp
     private function getUpdateOrderObj() : OrderUpdateInterface
     {
         // Простой способо
-        //return new OrderUpdateDecoratorLogger(new OrderUpdate());
+        return new OrderUpdateDecoratorLogger(new OrderUpdate());
 
         // Вложенные декораторы
         //$orderUpdateLogger = new OrderUpdateDecoratorLogger(new OrderUpdate());

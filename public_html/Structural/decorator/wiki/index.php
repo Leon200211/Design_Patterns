@@ -5,7 +5,7 @@ interface IText
     public function show();
 }
 
-class TextHello implements  IText
+class TextHello implements IText
 {
     protected $object;
 
@@ -21,7 +21,7 @@ class TextHello implements  IText
     }
 }
 
-class TextWorld implements  IText
+class TextWorld implements IText
 {
     protected $object;
 
@@ -37,7 +37,7 @@ class TextWorld implements  IText
     }
 }
 
-class TextSpace implements  IText
+class TextSpace implements IText
 {
     protected $object;
 
