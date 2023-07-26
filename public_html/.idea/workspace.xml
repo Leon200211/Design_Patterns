@@ -35,11 +35,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Creational\factory_method\book" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Other\DTO" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Structural\proxy" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Structural\decorator" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Structural\composite" />
-      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Structural\bridge" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\OpenServer\domains\Design_Patterns\public_html\active_record\Models" />
@@ -80,7 +80,7 @@
       <workItem from="1690203104923" duration="7395000" />
       <workItem from="1690264705043" duration="4551000" />
       <workItem from="1690297799318" duration="2284000" />
-      <workItem from="1690346948401" duration="600000" />
+      <workItem from="1690346948401" duration="1729000" />
     </task>
     <servers />
   </component>
