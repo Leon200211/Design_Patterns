@@ -28,7 +28,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/my_data/sites/domains/Design_Patterns/public_html",
+    "last_opened_file_path": "D:/my_data/sites/domains/Design_Patterns/public_html/Creational/factory_method/book",
     "settings.editor.selected.configurable": "editor.preferences.tabs",
     "vue.rearranger.settings.migration": "true"
   }
@@ -80,6 +80,7 @@
       <workItem from="1690203104923" duration="7395000" />
       <workItem from="1690264705043" duration="4551000" />
       <workItem from="1690297799318" duration="2284000" />
+      <workItem from="1690346948401" duration="600000" />
     </task>
     <servers />
   </component>

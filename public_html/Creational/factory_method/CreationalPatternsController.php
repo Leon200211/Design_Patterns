@@ -11,7 +11,7 @@ class CreationalPatternsController
 
     public function FactoryMethod()
     {
-        $name = 'Абстрактная фабрика';
+        $name = 'фабрика';
         //$description = GuiKitFactory::getDescription();
 
         $dialogForm = new BootstrapDialogForm();

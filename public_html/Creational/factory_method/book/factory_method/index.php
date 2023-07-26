@@ -1,4 +1,6 @@
-ё<?php
+<?php
+
+
 
 
 function autoloadMainClasses($class_name){
@@ -11,11 +13,19 @@ function autoloadMainClasses($class_name){
 
 }
 
-
 spl_autoload_register('autoloadMainClasses');
 
 
 
-$gui = new CreationalPatternsController();
-$gui->FactoryMethod();
+$man = new CommsManager(CommsManager::MEGA);
+print_r($man->getApptEncoder()::class);
+echo "<br>";
+
+$man = new CommsManager(CommsManager::BLOGGS);
+print_r($man->getApptEncoder()::class);
+echo "<br>";
+
+
+
+
 
