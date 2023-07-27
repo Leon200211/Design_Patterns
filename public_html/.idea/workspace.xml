@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13b71881-ec60-4ed2-b821-c9dc5b5b3674" name="Default Changelist" comment="Interpreter добавил диаграммы">
-      <change afterPath="$PROJECT_DIR$/Behavioral/strategy/book/AVQuestion.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/strategy/book/MarkLogicMarker.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/strategy/book/Marker.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/strategy/book/MatchMarker.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/strategy/book/Question.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/strategy/book/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/strategy/book/RegexpMarker.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/strategy/book/TextQuestion.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/strategy/book/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/strategy/book/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/strategy/wiki/index.php" afterDir="false" />
+    <list default="true" id="13b71881-ec60-4ed2-b821-c9dc5b5b3674" name="Default Changelist" comment="Обновил Strategy">
+      <change afterPath="$PROJECT_DIR$/Behavioral/observer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/observer/book/GeneralLogger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/observer/book/Login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/observer/book/LoginAnalytics.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/observer/book/LoginObserver.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/observer/book/Observable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/observer/book/Observer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/observer/book/PartnershipTool.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/observer/book/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/observer/book/SecurityMonitor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/observer/book/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/observer/book/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/observer/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/observer/wiki/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/observer/wiki/index_spl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +33,6 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpServers">
     <servers>
       <server host="design-patterns" id="672c3cc9-eb23-439a-8508-d76c1a8fc146" name="design-patterns" />
@@ -46,18 +49,18 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/my_data/sites/domains/Design_Patterns/public_html/Behavioral/strategy/book",
+    "last_opened_file_path": "D:/my_data/sites/domains/Design_Patterns/public_html/Behavioral/observer/book",
     "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php.debug",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\observer\book" />
+      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\observer" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\strategy\book" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\Interpreter" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Structural\decorator\book" />
-      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Creational\dependency_injection\book" />
-      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Creational\dependency_injection" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\interpreter" />
@@ -104,7 +107,7 @@
       <workItem from="1690357373090" duration="674000" />
       <workItem from="1690359813091" duration="4240000" />
       <workItem from="1690365502996" duration="1984000" />
-      <workItem from="1690453017322" duration="6355000" />
+      <workItem from="1690453017322" duration="12365000" />
     </task>
     <task id="LOCAL-00001" summary="Interpreter wiki">
       <created>1690455967531</created>
@@ -120,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690457634898</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Обновил Strategy">
+      <created>1690461902291</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690461902291</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,7 +150,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Interpreter wiki" />
     <MESSAGE value="Interpreter добавил диаграммы" />
-    <option name="LAST_COMMIT_MESSAGE" value="Interpreter добавил диаграммы" />
+    <MESSAGE value="Обновил Strategy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Обновил Strategy" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
