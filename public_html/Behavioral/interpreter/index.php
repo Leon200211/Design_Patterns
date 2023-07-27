@@ -125,7 +125,7 @@ $statement = new BooleanOrExpression(
     new EqualsExpression( $input, new LiteralExpression( "4" ) )
 );
 
-foreach( array( "четыре", "4", "52" ) as $value ) {
+foreach( array( "четыре", "4", "52", 4) as $value ) {
     $input->setValue( $value );
     print "{$value}:<br>";
     $statement->interpret( $context );
