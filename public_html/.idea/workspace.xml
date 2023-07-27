@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13b71881-ec60-4ed2-b821-c9dc5b5b3674" name="Default Changelist" comment="" />
+    <list default="true" id="13b71881-ec60-4ed2-b821-c9dc5b5b3674" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Behavioral/interpreter/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/interpreter/wiki/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,15 +14,20 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpServers">
     <servers>
       <server host="design-patterns" id="672c3cc9-eb23-439a-8508-d76c1a8fc146" name="design-patterns" />
     </servers>
   </component>
   <component name="ProjectId" id="2IEQ70zk38oxhDPqzlDaY5MI5bc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,20 +37,21 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/my_data/sites/domains/Design_Patterns/public_html/Structural/decorator/book",
-    "settings.editor.selected.configurable": "editor.preferences.tabs",
+    "last_opened_file_path": "D:/my_data/sites/domains/timesheet_workshop/public_html",
+    "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php.debug",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\Interpreter" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Structural\decorator\book" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Creational\dependency_injection\book" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Creational\dependency_injection" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Creational\service_locator\book" />
-      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Creational\service_locator" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\Interpreter" />
       <recent name="C:\OpenServer\domains\Design_Patterns\public_html\active_record\Models" />
     </key>
   </component>
@@ -82,11 +92,39 @@
       <workItem from="1690297799318" duration="2284000" />
       <workItem from="1690346948401" duration="5253000" />
       <workItem from="1690357373090" duration="674000" />
-      <workItem from="1690359813091" duration="3447000" />
+      <workItem from="1690359813091" duration="4240000" />
+      <workItem from="1690365502996" duration="1984000" />
+      <workItem from="1690453017322" duration="2846000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Behavioral/interpreter/wiki/index.php</url>
+          <line>75</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
