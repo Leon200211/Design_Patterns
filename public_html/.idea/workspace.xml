@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13b71881-ec60-4ed2-b821-c9dc5b5b3674" name="Default Changelist" comment="Interpreter wiki">
-      <change afterPath="$PROJECT_DIR$/Behavioral/interpreter/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/interpreter/img_1.png" afterDir="false" />
+    <list default="true" id="13b71881-ec60-4ed2-b821-c9dc5b5b3674" name="Default Changelist" comment="Interpreter добавил диаграммы">
+      <change afterPath="$PROJECT_DIR$/Behavioral/strategy/book/AVQuestion.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/strategy/book/MarkLogicMarker.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/strategy/book/Marker.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/strategy/book/MatchMarker.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/strategy/book/Question.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/strategy/book/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/strategy/book/RegexpMarker.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/strategy/book/TextQuestion.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/strategy/book/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/strategy/book/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/strategy/wiki/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Behavioral/interpreter/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Behavioral/interpreter/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Behavioral/interpreter/wiki/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Behavioral/interpreter/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,18 +46,18 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/my_data/sites/domains/timesheet_workshop/public_html",
+    "last_opened_file_path": "D:/my_data/sites/domains/Design_Patterns/public_html/Behavioral/strategy/book",
     "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php.debug",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\strategy\book" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\Interpreter" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Structural\decorator\book" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Creational\dependency_injection\book" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Creational\dependency_injection" />
-      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Creational\service_locator\book" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\interpreter" />
@@ -97,7 +104,7 @@
       <workItem from="1690357373090" duration="674000" />
       <workItem from="1690359813091" duration="4240000" />
       <workItem from="1690365502996" duration="1984000" />
-      <workItem from="1690453017322" duration="4275000" />
+      <workItem from="1690453017322" duration="6355000" />
     </task>
     <task id="LOCAL-00001" summary="Interpreter wiki">
       <created>1690455967531</created>
@@ -106,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690455967531</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Interpreter добавил диаграммы">
+      <created>1690457634898</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690457634898</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,7 +139,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Interpreter wiki" />
-    <option name="LAST_COMMIT_MESSAGE" value="Interpreter wiki" />
+    <MESSAGE value="Interpreter добавил диаграммы" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interpreter добавил диаграммы" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
