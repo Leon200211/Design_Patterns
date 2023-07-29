@@ -2,21 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13b71881-ec60-4ed2-b821-c9dc5b5b3674" name="Default Changelist" comment="Обновил Strategy">
-      <change afterPath="$PROJECT_DIR$/Behavioral/observer/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/observer/book/GeneralLogger.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/observer/book/Login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/observer/book/LoginAnalytics.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/observer/book/LoginObserver.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/observer/book/Observable.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/observer/book/Observer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/observer/book/PartnershipTool.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/observer/book/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/observer/book/SecurityMonitor.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/observer/book/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/observer/book/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/observer/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/observer/wiki/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/observer/wiki/index_spl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/visitor/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/visitor/book/Army.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/visitor/book/ArmyVisitor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/visitor/book/CompositeUnit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/visitor/book/LaserCanonUnit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/visitor/book/TaxCollectionVisitor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/visitor/book/TextDumpArmyVisitor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/visitor/book/Unit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/visitor/book/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/visitor/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/visitor/wiki/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,18 +45,18 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/my_data/sites/domains/Design_Patterns/public_html/Behavioral/observer/book",
+    "last_opened_file_path": "D:/my_data/sites/domains/Design_Patterns/public_html/Behavioral/visitor",
     "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php.debug",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\visitor" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\observer\book" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\observer" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\strategy\book" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\Interpreter" />
-      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Structural\decorator\book" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\interpreter" />
@@ -107,7 +103,8 @@
       <workItem from="1690357373090" duration="674000" />
       <workItem from="1690359813091" duration="4240000" />
       <workItem from="1690365502996" duration="1984000" />
-      <workItem from="1690453017322" duration="12365000" />
+      <workItem from="1690453017322" duration="12717000" />
+      <workItem from="1690656969456" duration="2102000" />
     </task>
     <task id="LOCAL-00001" summary="Interpreter wiki">
       <created>1690455967531</created>
@@ -130,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690461902291</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Обновил Strategy">
+      <created>1690470653693</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690470653693</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
