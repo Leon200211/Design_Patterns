@@ -16,4 +16,4 @@
 5) Анализ кол-ва обращений и т.п.
 
 
-![](C:/Users/HYPERPC/Downloads/1.png)
+![img.png](img.png)
