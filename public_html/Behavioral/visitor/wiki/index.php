@@ -85,7 +85,8 @@ class Chebyshev implements Visitor {
 function start(){
     $p = new Point2d( 1, 2 );
     $v = new Chebyshev();
-    $p->accept( $v );
+    $v2 = new Euclid();
+    $p->accept( $v2 );
     echo ( $p->getMetric() );
 };
 start();

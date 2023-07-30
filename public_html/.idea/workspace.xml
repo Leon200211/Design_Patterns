@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13b71881-ec60-4ed2-b821-c9dc5b5b3674" name="Default Changelist" comment="Обновил Strategy">
-      <change afterPath="$PROJECT_DIR$/Behavioral/visitor/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/visitor/book/Army.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/visitor/book/ArmyVisitor.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/visitor/book/CompositeUnit.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/visitor/book/LaserCanonUnit.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/visitor/book/TaxCollectionVisitor.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/visitor/book/TextDumpArmyVisitor.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/visitor/book/Unit.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/visitor/book/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/visitor/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/visitor/wiki/index.php" afterDir="false" />
+    <list default="true" id="13b71881-ec60-4ed2-b821-c9dc5b5b3674" name="Default Changelist" comment="Visitor">
+      <change afterPath="$PROJECT_DIR$/Behavioral/command/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/command/book/Command.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/command/book/CommandContext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/command/book/CommandFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/command/book/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/command/book/FeedbackCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/command/book/LoginCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/command/book/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/command/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Behavioral/visitor/wiki/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Behavioral/visitor/wiki/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,18 +44,18 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/my_data/sites/domains/Design_Patterns/public_html/Behavioral/visitor",
+    "last_opened_file_path": "D:/my_data/sites/domains/Design_Patterns/public_html/Behavioral/command/book",
     "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php.debug",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\command\book" />
+      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\command" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\visitor" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\observer\book" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\observer" />
-      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\strategy\book" />
-      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\Interpreter" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\interpreter" />
@@ -104,7 +103,9 @@
       <workItem from="1690359813091" duration="4240000" />
       <workItem from="1690365502996" duration="1984000" />
       <workItem from="1690453017322" duration="12717000" />
-      <workItem from="1690656969456" duration="2102000" />
+      <workItem from="1690656969456" duration="2676000" />
+      <workItem from="1690720679364" duration="13000" />
+      <workItem from="1690726902149" duration="2658000" />
     </task>
     <task id="LOCAL-00001" summary="Interpreter wiki">
       <created>1690455967531</created>
@@ -134,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690470653693</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Visitor">
+      <created>1690659427900</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1690659427900</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,7 +163,8 @@
     <MESSAGE value="Interpreter wiki" />
     <MESSAGE value="Interpreter добавил диаграммы" />
     <MESSAGE value="Обновил Strategy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Обновил Strategy" />
+    <MESSAGE value="Visitor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Visitor" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
