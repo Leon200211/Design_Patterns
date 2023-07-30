@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13b71881-ec60-4ed2-b821-c9dc5b5b3674" name="Default Changelist" comment="Visitor">
-      <change afterPath="$PROJECT_DIR$/Behavioral/command/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/command/book/Command.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/command/book/CommandContext.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/command/book/CommandFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/command/book/Controller.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/command/book/FeedbackCommand.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/command/book/LoginCommand.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/command/book/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/command/index.php" afterDir="false" />
+    <list default="true" id="13b71881-ec60-4ed2-b821-c9dc5b5b3674" name="Default Changelist" comment="Command - версия из книги">
+      <change afterPath="$PROJECT_DIR$/Behavioral/command/site/Command.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/command/site/HelloCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/command/site/UndoableCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/command/site/img.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Behavioral/visitor/wiki/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Behavioral/visitor/wiki/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +99,7 @@
       <workItem from="1690453017322" duration="12717000" />
       <workItem from="1690656969456" duration="2676000" />
       <workItem from="1690720679364" duration="13000" />
-      <workItem from="1690726902149" duration="2658000" />
+      <workItem from="1690726902149" duration="3310000" />
     </task>
     <task id="LOCAL-00001" summary="Interpreter wiki">
       <created>1690455967531</created>
@@ -142,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690659427900</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Command - версия из книги">
+      <created>1690730554695</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1690730554695</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,7 +165,8 @@
     <MESSAGE value="Interpreter добавил диаграммы" />
     <MESSAGE value="Обновил Strategy" />
     <MESSAGE value="Visitor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Visitor" />
+    <MESSAGE value="Command - версия из книги" />
+    <option name="LAST_COMMIT_MESSAGE" value="Command - версия из книги" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
