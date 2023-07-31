@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13b71881-ec60-4ed2-b821-c9dc5b5b3674" name="Default Changelist" comment="Command - версия с сайта">
-      <change afterPath="$PROJECT_DIR$/Fundamental/property_container/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Other/null_object/NullUnit.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Other/null_object/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Other/null_object/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/proxy/img.png" afterDir="false" />
+    <list default="true" id="13b71881-ec60-4ed2-b821-c9dc5b5b3674" name="Default Changelist" comment="null object">
+      <change afterPath="$PROJECT_DIR$/Сorporate_applications/registry/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Сorporate_applications/registry/book/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Сorporate_applications/registry/book/Registry.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Сorporate_applications/registry/book/Registry_2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Сorporate_applications/registry/book/Request.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Сorporate_applications/registry/book/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Сorporate_applications/registry/e1/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural/adapter/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Structural/adapter/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural/decorator/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Structural/decorator/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural/proxy/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Structural/proxy/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,18 +41,19 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/my_data/sites/domains/Design_Patterns/public_html/Fundamental/property_container",
+    "last_opened_file_path": "D:/my_data/sites/domains/Design_Patterns/public_html/Сorporate_applications/registry/book",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php.debug",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Сorporate_applications\registry\book" />
+      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Сorporate_applications\registry" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Fundamental\property_container" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Other\null_object" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\command\book" />
-      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\command" />
-      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\visitor" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\interpreter" />
@@ -103,7 +103,8 @@
       <workItem from="1690453017322" duration="12717000" />
       <workItem from="1690656969456" duration="2676000" />
       <workItem from="1690720679364" duration="13000" />
-      <workItem from="1690726902149" duration="7761000" />
+      <workItem from="1690726902149" duration="8429000" />
+      <workItem from="1690827842688" duration="1893000" />
     </task>
     <task id="LOCAL-00001" summary="Interpreter wiki">
       <created>1690455967531</created>
@@ -154,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690731257540</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="null object">
+      <created>1690736133876</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1690736133876</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,7 +186,8 @@
     <MESSAGE value="Visitor" />
     <MESSAGE value="Command - версия из книги" />
     <MESSAGE value="Command - версия с сайта" />
-    <option name="LAST_COMMIT_MESSAGE" value="Command - версия с сайта" />
+    <MESSAGE value="null object" />
+    <option name="LAST_COMMIT_MESSAGE" value="null object" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
