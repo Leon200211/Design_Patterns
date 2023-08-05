@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13b71881-ec60-4ed2-b821-c9dc5b5b3674" name="Default Changelist" comment="Application controller">
-      <change afterPath="$PROJECT_DIR$/Сorporate_applications/page_controller/AddVenueController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Сorporate_applications/page_controller/PageController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Сorporate_applications/page_controller/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Сorporate_applications/page_controller/add_venue.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Сorporate_applications/page_controller/ex.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Сorporate_applications/page_controller/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Сorporate_applications/page_controller/index.php" afterDir="false" />
+    <list default="true" id="13b71881-ec60-4ed2-b821-c9dc5b5b3674" name="Default Changelist" comment="Page controller">
+      <change afterPath="$PROJECT_DIR$/Сorporate_applications/template_view_and_view_helper/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Сorporate_applications/template_view_and_view_helper/img.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +36,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/my_data/sites/domains/Design_Patterns/public_html/Сorporate_applications/page_controller",
+    "last_opened_file_path": "D:/my_data/sites/domains/Design_Patterns/public_html/Сorporate_applications/template_view_and_view_helper",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php.debug",
     "vue.rearranger.settings.migration": "true"
@@ -49,11 +44,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Сorporate_applications\template_view_and_view_helper" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Сorporate_applications\page_controller" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Сorporate_applications\application_controller" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Сorporate_applications\front_controller" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Сorporate_applications\registry\book" />
-      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Сorporate_applications\registry" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\interpreter" />
@@ -107,7 +102,7 @@
       <workItem from="1690827842688" duration="2524000" />
       <workItem from="1690877235219" duration="24000" />
       <workItem from="1690999880193" duration="4523000" />
-      <workItem from="1691249455659" duration="3588000" />
+      <workItem from="1691249455659" duration="4891000" />
     </task>
     <task id="LOCAL-00001" summary="Interpreter wiki">
       <created>1690455967531</created>
@@ -186,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691252183359</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Page controller">
+      <created>1691254261007</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1691254261007</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,7 +216,8 @@
     <MESSAGE value="Registry" />
     <MESSAGE value="Front controller" />
     <MESSAGE value="Application controller" />
-    <option name="LAST_COMMIT_MESSAGE" value="Application controller" />
+    <MESSAGE value="Page controller" />
+    <option name="LAST_COMMIT_MESSAGE" value="Page controller" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
