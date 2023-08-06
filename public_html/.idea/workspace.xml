@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13b71881-ec60-4ed2-b821-c9dc5b5b3674" name="Default Changelist" comment="Page controller">
-      <change afterPath="$PROJECT_DIR$/Сorporate_applications/template_view_and_view_helper/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Сorporate_applications/template_view_and_view_helper/img.png" afterDir="false" />
+    <list default="true" id="13b71881-ec60-4ed2-b821-c9dc5b5b3674" name="Default Changelist" comment="Template View и View Helper">
+      <change afterPath="$PROJECT_DIR$/Сorporate_applications/transaction_script/Base.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Сorporate_applications/transaction_script/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Сorporate_applications/transaction_script/VenueManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Сorporate_applications/transaction_script/img.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/my_data/sites/domains/Design_Patterns/public_html/Сorporate_applications/template_view_and_view_helper",
+    "last_opened_file_path": "D:/my_data/sites/domains/Design_Patterns/public_html/Сorporate_applications/transaction_script",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php.debug",
     "vue.rearranger.settings.migration": "true"
@@ -44,11 +46,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Сorporate_applications\transaction_script" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Сorporate_applications\template_view_and_view_helper" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Сorporate_applications\page_controller" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Сorporate_applications\application_controller" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Сorporate_applications\front_controller" />
-      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Сorporate_applications\registry\book" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\interpreter" />
@@ -102,7 +104,8 @@
       <workItem from="1690827842688" duration="2524000" />
       <workItem from="1690877235219" duration="24000" />
       <workItem from="1690999880193" duration="4523000" />
-      <workItem from="1691249455659" duration="4891000" />
+      <workItem from="1691249455659" duration="6127000" />
+      <workItem from="1691336321988" duration="1241000" />
     </task>
     <task id="LOCAL-00001" summary="Interpreter wiki">
       <created>1690455967531</created>
@@ -188,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691254261007</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Template View и View Helper">
+      <created>1691256794134</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1691256794134</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,7 +227,8 @@
     <MESSAGE value="Front controller" />
     <MESSAGE value="Application controller" />
     <MESSAGE value="Page controller" />
-    <option name="LAST_COMMIT_MESSAGE" value="Page controller" />
+    <MESSAGE value="Template View и View Helper" />
+    <option name="LAST_COMMIT_MESSAGE" value="Template View и View Helper" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
