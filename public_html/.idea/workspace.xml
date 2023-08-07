@@ -1,25 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13b71881-ec60-4ed2-b821-c9dc5b5b3674" name="Default Changelist" comment="domain model">
-      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/book/Collection.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/book/GenCollection.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/book/Mapper.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/book/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/book/VenueCollection.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/book/VenueMapper.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/book/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/book/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/book/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/book/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/book/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/site/DataMapperTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/site/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/site/StorageAdapter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/site/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/site/UserMapper.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/site/img.png" afterDir="false" />
+    <list default="true" id="13b71881-ec60-4ed2-b821-c9dc5b5b3674" name="Default Changelist" comment="data mapper">
+      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/site_2/Product.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,7 +105,7 @@
       <workItem from="1691249455659" duration="6127000" />
       <workItem from="1691336321988" duration="2694000" />
       <workItem from="1691391479867" duration="27000" />
-      <workItem from="1691431405908" duration="4571000" />
+      <workItem from="1691431405908" duration="5731000" />
     </task>
     <task id="LOCAL-00001" summary="Interpreter wiki">
       <created>1690455967531</created>
@@ -229,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691339020010</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="data mapper">
+      <created>1691436669479</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1691436669479</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,7 +251,8 @@
     <MESSAGE value="Template View и View Helper" />
     <MESSAGE value="transaction script" />
     <MESSAGE value="domain model" />
-    <option name="LAST_COMMIT_MESSAGE" value="domain model" />
+    <MESSAGE value="data mapper" />
+    <option name="LAST_COMMIT_MESSAGE" value="data mapper" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
