@@ -1,8 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13b71881-ec60-4ed2-b821-c9dc5b5b3674" name="Default Changelist" comment="transaction script">
-      <change afterPath="$PROJECT_DIR$/Сorporate_applications/domain_model/README.md" afterDir="false" />
+    <list default="true" id="13b71881-ec60-4ed2-b821-c9dc5b5b3674" name="Default Changelist" comment="domain model">
+      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/book/Collection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/book/GenCollection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/book/Mapper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/book/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/book/VenueCollection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/book/VenueMapper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/book/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/book/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/book/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/book/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/book/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/site/DataMapperTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/site/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/site/StorageAdapter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/site/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/site/UserMapper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/site/img.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +52,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/my_data/sites/domains/Design_Patterns/public_html/Сorporate_applications/domain_model",
+    "last_opened_file_path": "D:/my_data/sites/domains/Design_Patterns/public_html/ Вatabase_templates/data_mapper/book",
+    "php.override.implement.member.chooser.php.doc": "NONE",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php.debug",
     "vue.rearranger.settings.migration": "true"
@@ -43,11 +61,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\ Вatabase_templates\data_mapper\book" />
+      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\ Вatabase_templates\data_mapper\site" />
+      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\ Вatabase_templates\data_mapper" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Сorporate_applications\domain_model" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Сorporate_applications\transaction_script" />
-      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Сorporate_applications\template_view_and_view_helper" />
-      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Сorporate_applications\page_controller" />
-      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Сorporate_applications\application_controller" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\interpreter" />
@@ -102,7 +120,9 @@
       <workItem from="1690877235219" duration="24000" />
       <workItem from="1690999880193" duration="4523000" />
       <workItem from="1691249455659" duration="6127000" />
-      <workItem from="1691336321988" duration="2165000" />
+      <workItem from="1691336321988" duration="2694000" />
+      <workItem from="1691391479867" duration="27000" />
+      <workItem from="1691431405908" duration="4571000" />
     </task>
     <task id="LOCAL-00001" summary="Interpreter wiki">
       <created>1690455967531</created>
@@ -202,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691337940452</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="domain model">
+      <created>1691339020010</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1691339020010</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,7 +260,8 @@
     <MESSAGE value="Page controller" />
     <MESSAGE value="Template View и View Helper" />
     <MESSAGE value="transaction script" />
-    <option name="LAST_COMMIT_MESSAGE" value="transaction script" />
+    <MESSAGE value="domain model" />
+    <option name="LAST_COMMIT_MESSAGE" value="domain model" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
