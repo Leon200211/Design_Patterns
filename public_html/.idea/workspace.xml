@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13b71881-ec60-4ed2-b821-c9dc5b5b3674" name="Default Changelist" comment="data mapper">
-      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/data_mapper/site_2/Product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/identity_map/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/identity_map/site/Mapper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/identity_map/site/ObjectWatcher.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/identity_map/site/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/identity_map/site/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/identity_map/site/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/my_data/sites/domains/Design_Patterns/public_html/ Вatabase_templates/data_mapper/book",
+    "last_opened_file_path": "D:/my_data/sites/domains/Design_Patterns/public_html/ Вatabase_templates/identity_map/site",
     "php.override.implement.member.chooser.php.doc": "NONE",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php.debug",
@@ -44,11 +49,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\ Вatabase_templates\identity_map\site" />
+      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\ Вatabase_templates\identity_map" />
+      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\ Вatabase_templates\data_mapper\site_2" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\ Вatabase_templates\data_mapper\book" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\ Вatabase_templates\data_mapper\site" />
-      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\ Вatabase_templates\data_mapper" />
-      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Сorporate_applications\domain_model" />
-      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Сorporate_applications\transaction_script" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\interpreter" />
@@ -105,7 +110,9 @@
       <workItem from="1691249455659" duration="6127000" />
       <workItem from="1691336321988" duration="2694000" />
       <workItem from="1691391479867" duration="27000" />
-      <workItem from="1691431405908" duration="5731000" />
+      <workItem from="1691431405908" duration="6011000" />
+      <workItem from="1691474260429" duration="140000" />
+      <workItem from="1691515342142" duration="1797000" />
     </task>
     <task id="LOCAL-00001" summary="Interpreter wiki">
       <created>1690455967531</created>
@@ -219,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691436669479</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="data mapper">
+      <created>1691437839371</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1691437839371</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
