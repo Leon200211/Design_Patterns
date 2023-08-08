@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13b71881-ec60-4ed2-b821-c9dc5b5b3674" name="Default Changelist" comment="data mapper">
-      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/identity_map/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/identity_map/site/Mapper.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/identity_map/site/ObjectWatcher.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/identity_map/site/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/identity_map/site/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/identity_map/site/index.php" afterDir="false" />
+    <list default="true" id="13b71881-ec60-4ed2-b821-c9dc5b5b3674" name="Default Changelist" comment="Identity map">
+      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/unit_of_work/DomainObject.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/unit_of_work/Mapper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/unit_of_work/ObjectWatcher.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/unit_of_work/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/unit_of_work/Space.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/unit_of_work/img.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/my_data/sites/domains/Design_Patterns/public_html/ Вatabase_templates/identity_map/site",
+    "last_opened_file_path": "D:/my_data/sites/domains/Design_Patterns/public_html/ Вatabase_templates/unit_of_work",
     "php.override.implement.member.chooser.php.doc": "NONE",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php.debug",
@@ -49,11 +49,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\ Вatabase_templates\unit_of_work" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\ Вatabase_templates\identity_map\site" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\ Вatabase_templates\identity_map" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\ Вatabase_templates\data_mapper\site_2" />
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\ Вatabase_templates\data_mapper\book" />
-      <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\ Вatabase_templates\data_mapper\site" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\my_data\sites\domains\Design_Patterns\public_html\Behavioral\interpreter" />
@@ -112,7 +112,7 @@
       <workItem from="1691391479867" duration="27000" />
       <workItem from="1691431405908" duration="6011000" />
       <workItem from="1691474260429" duration="140000" />
-      <workItem from="1691515342142" duration="1797000" />
+      <workItem from="1691515342142" duration="3438000" />
     </task>
     <task id="LOCAL-00001" summary="Interpreter wiki">
       <created>1690455967531</created>
@@ -233,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691437839371</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Identity map">
+      <created>1691517250207</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1691517250207</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,7 +273,8 @@
     <MESSAGE value="transaction script" />
     <MESSAGE value="domain model" />
     <MESSAGE value="data mapper" />
-    <option name="LAST_COMMIT_MESSAGE" value="data mapper" />
+    <MESSAGE value="Identity map" />
+    <option name="LAST_COMMIT_MESSAGE" value="Identity map" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
