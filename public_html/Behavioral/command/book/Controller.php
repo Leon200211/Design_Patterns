@@ -4,7 +4,7 @@ class Controller
 {
     private CommandContext $context;
 
-    public function construct()
+    public function __construct()
     {
         $this->context = new CommandContext();
     }

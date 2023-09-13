@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13b71881-ec60-4ed2-b821-c9dc5b5b3674" name="Default Changelist" comment="Identity object">
-      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/selection_factory_update_factory/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/selection_factory_update_factory/UpdateFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/selection_factory_update_factory/VenueUpdateFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ Вatabase_templates/selection_factory_update_factory/img.png" afterDir="false" />
+    <list default="true" id="13b71881-ec60-4ed2-b821-c9dc5b5b3674" name="Default Changelist" comment="Selection Factory &amp; Update Factory">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +34,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/my_data/sites/domains/Design_Patterns/public_html/ Вatabase_templates",
+    "last_opened_file_path": "D:/my_data/sites/domains/Design_Patterns/public_html",
     "nodejs_package_manager_path": "npm",
     "php.override.implement.member.chooser.php.doc": "NONE",
     "run.code.analysis.last.selected.profile": "pProject Default",
@@ -117,7 +112,8 @@
       <workItem from="1691591568025" duration="600000" />
       <workItem from="1691645368134" duration="3895000" />
       <workItem from="1691650517796" duration="27000" />
-      <workItem from="1691683936847" duration="2246000" />
+      <workItem from="1691683936847" duration="2580000" />
+      <workItem from="1694635534493" duration="1151000" />
     </task>
     <task id="LOCAL-00001" summary="Interpreter wiki">
       <created>1690455967531</created>
@@ -273,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691649600660</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Selection Factory &amp; Update Factory">
+      <created>1691689721098</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1691689721098</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -311,7 +314,8 @@
     <MESSAGE value="Lazy load" />
     <MESSAGE value="Domain Object Factory" />
     <MESSAGE value="Identity object" />
-    <option name="LAST_COMMIT_MESSAGE" value="Identity object" />
+    <MESSAGE value="Selection Factory &amp; Update Factory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selection Factory &amp; Update Factory" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -19,9 +19,8 @@ class Connection
     }
 
 
-    private function connect(){
-
-
+    private function connect()
+    {
         $config = [
             'host' => '127.0.0.1:3307',
             'username' => 'root',
@@ -34,7 +33,6 @@ class Connection
         $this->link = new PDO($dsn, $config['username'], $config['password']);
 
         return $this;
-
     }
 
 

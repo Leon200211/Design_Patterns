@@ -1,6 +1,6 @@
 <?php
 
-class ObjectPoolDemo
+class ObjectPoolDemo extends ObjectPool
 {
     private $objectPool;
 
